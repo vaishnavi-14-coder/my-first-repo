@@ -1,0 +1,20 @@
+1. Student Login System
+Secure login with email & password.
+
+2. Dashboard
+A simple homepage after login with:
+Attendance, Grades, Fees, Profile.
+
+3. Attendance 
+A page displaying their attendance
+Number of days present, Number of days absent.
+
+4. Grades
+View grades for each test. (Assignments / Exam)
+
+5.Fees
+To view the amount of fee paid and the due amount.
+
+6. Profile
+View and edit student profile info:
+Password. 
