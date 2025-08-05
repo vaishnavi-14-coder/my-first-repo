@@ -1,0 +1,5 @@
+Name : D.M.L.S.Vaishnavi Mani
+Course : BSc Datascience
+ONE THING I LEARNED ABOUT GITHUB
+GitHub is used by developers, students, and teams to manage, share, and collaborate on code and projects.
+
